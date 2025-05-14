@@ -1,0 +1,46 @@
+body{
+	font-family: "comic sans";
+	background: url('https://sdr.puebla.gob.mx/media/k2/items/cache/9415f9bcd76598f9c08127db1641b596_L.jpg');
+	background-repeat: repeat;
+}
+body{
+	font-family: "calibri light";
+}
+body{
+		font-family:Arial, sans-serif, Helveticas;
+		backgroud:#e8e8e8;
+}
+.menu{
+	list-style:none;
+	padding:0;
+	background:#1FBBDA;
+	width:90%;
+	max-width:20px auto;
+}
+.menu il{
+	display:inline-block;
+	text-aling:center;
+}
+.menu il a{
+	color:#ffffff;
+	text-decoration:none;
+	display:block;
+	padding:20px;
+}
+.menu il a:hover{
+	backgroud:#95F0CD;
+}
+h1, p{
+	color: #FCB5D6;
+	text-align: center;
+}
+div{
+	width: 60%;
+	height: 500px;
+	background:#ffffff;
+	margin: auto;
+}
+.textoRemarcado{
+	foto-weight: bold;
+	font-size: 18px;
+}
